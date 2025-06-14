@@ -28,6 +28,7 @@ The **Disease Predictor** is an intelligent web-based application that utilizes 
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🚀 Features
